@@ -1,4 +1,4 @@
-
+import Helper
 
 example("use a stack") {
 	
@@ -30,3 +30,6 @@ example("init a stack by array") {
 	stack.pop()
 	print(stack)
 }
+
+
+
