@@ -6,6 +6,6 @@ public struct Helper {
 public func example(_ description: String, action: ()->()){
 	print("--- \(description) ---")
 	action()
-	print("--- end --- ")
+	print("--- end --- \n")
 }
 
